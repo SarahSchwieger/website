@@ -1,0 +1,11 @@
+---
+title: "The effect of shrubification on decomposition dynamics"
+---
+
+This project focuses on how climate-driven expansion of dwarf shrubs affects root decomposition across climatic gradients and from existing grasslands to emerging shrub heathlands. My hypothesis is that:
+
+> Dwarf shrub root litter transplanted from wetter and colder to drier and warmer environments will decompose faster than established litter at the warmer sites. However, introducing 'new' shrub litter to existing grassland vegetation will slow its decomposition. This difference may stem from the transplanted litter's chemical composition being more readily degradable by the microbial community in warmer conditions, and local decomposers potentially not being adapted to the more resistant shrub litter.
+
+![](images/project2.png){fig-align="center"}
+
+This project investigates how climate influences root litter decomposition using transplantation experiments across latitudinal and elevational gradients in Norway. We will move root litter from cold/wet sites to warm/dry sites to test for home-field advantage effects and assess decomposition rates in different vegetation types. This space-for-time substitution approach allows us to examine long-term ecological changes in a shorter timeframe.

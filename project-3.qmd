@@ -1,0 +1,13 @@
+---
+title: "Understanding the drivers of variability in the root decomposition"
+---
+
+This project investigates the key factors influencing root decomposition in response to warming. I will compare the relative importance of litter quality (inherent characteristics) versus environmental conditions (location and soil depth) on decomposition rates under controlled conditions. I hypothesise that:
+
+> Under controlled conditions with a warmer temperature and moister soil conditions compared to a drier or cooler environment, the inherent litter quality (chemical composition) of dwarf shrub root litter will have a greater impact on decomposition rates dependent on the location of decomposition (on top of the soil, within the soil profile).
+
+![](images/growth%20chamber.png){fig-align="center" width="346"}
+
+I will set up controlled environment experiments in growth chambers at UMU and manipulate key environmental factors like temperature and moisture to isolate their effects. The chemical composition of root litter samples will be determined. These data will provide detailed information on litter quality. I will investigate root decomposition at different soil depths to understand how the decomposition environment influences decomposition processes and their response to warmer climates.
+
+By comparing decomposition under controlled conditions and with varying litter quality, I can directly test the relative importance of these factors in driving root decomposition under warming.

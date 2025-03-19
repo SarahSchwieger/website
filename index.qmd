@@ -1,0 +1,26 @@
+---
+title: "Hidden world, big impact"
+title-block-banner: images/IMG_20220913_080940.jpeg
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        background-position-y: center;
+        height: 200px;
+      }
+      </style>
+---
+
+Up to **80% of the plant biomass in the Arctic resides belowground in the form of roots**, yet we know little of their role in ecosystem carbon dynamics. In particular, research on root decomposition lags behind our understanding of aboveground plant parts. This lack of knowledge is particularly concerning as shrub growth and expansion accelerate in the Arctic and alpine tundra due to warming temperatures. The impact of warmer temperatures on root decomposition in these shrub- dominated ecosystems remains virtually unknown.
+
+My project will **fill this gap** by investigating the effects of climate warming on root decomposition in Arctic and alpine tundra ecosystems and in doing so will be a major step forward in understanding how these processes influence the dynamics of carbon and nutrient cycling. By combining different approaches, such as **space-for-time substitution, coordinated, distributed experiments** with experimental warming using **open-top chambers** at multiple tundra sites, and **growth chamber** experiments with controlled environmental conditions, I will gain valuable insights into the mechanisms controlling root decomposition in response to climate change. This knowledge will not only advance scientific understanding, but also will also benefit society by clarifying how shrubification affects carbon and nutrients, leading to better climate predictions and the development of effective mitigation strategies in Arctic and alpine regions facing rapid environmental change.
+
+Understanding the key drivers of decomposition under warming is crucial to predict the future of the Arctic nutrient and carbon cycle and its impact on global climate change. These drivers could be environmental (i.e., temperature and moisture) or inherent to the litter itself (i.e., chemical composition). Separating these influences is challenging, but by studying decomposition across various environmental conditions with controlled experiments, this project addresses this challenge.
+
+This research will contribute to a more comprehensive understanding of the future trajectory of the Arctic carbon cycle and its broader implications for global climate change. For this purpose, I aim to answer the following research questions:
+
+1.  Does belowground litter (i.e., roots) decompose differently from aboveground litter (i.e., leaves) in response to warming, and does the decomposition of different plant functional types (i.e., shrubs and graminoids) respond similarly? [Read more](project-1.qmd)
+
+2.  How will increasing dwarf shrub cover due to climate change alter root decomposition rates across elevational and latitudinal gradients, considering the potential for local adaptation (including ‘home-field advantage’ effects) of these shrubs? [Read more](project-2.qmd)
+
+3.  What factors drive root decomposition responses to warming? Specifically, do environmental conditions (e.g., decomposition above the soil surface or in the soil, different soil depths) or inherent litter characteristics (e.g., specific traits, chemical composition) play a more significant role? [Read more](project-3.qmd)

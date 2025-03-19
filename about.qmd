@@ -1,0 +1,19 @@
+---
+title: "About the research group"
+bibliography: Sarah_publ.bib
+nocite: |
+  @*
+---
+
+## Sarah Schwieger
+
+![](images/clipboard-1347964310.png)
+
+I am an ecologist with expertise in experimental research, data synthesis, and large-scale analysis, focusing on plant-soil interactions and ecosystem processes. My research spans Arctic and temperate ecosystems, with an emphasis on understanding how environmental changes, such as climate warming and land management, influence plant and soil dynamics. I have experience leading collaborative projects and managing extensive ecological datasets, contributing to insights that inform climate change mitigation strategies.
+
+My full list of publications is available [here](https://scholar.google.com/citations?hl=sv&user=XSEPE7EAAAAJ).
+
+#### Selected publications
+
+::: {#refs}
+:::
