@@ -1,0 +1,64 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Uncovering how Arctic shrub roots <br> respond to climate warming"
+  back-to-top-navigation: true
+  repo-url: https://github.com/quarto-dev/quarto-demo
+  repo-actions: [source, issue]
+  page-footer:
+    background: light
+    left: "2025, Sarah Schwieger" 
+    right: 
+      - text: sarah.schwieger@umu.se
+        href: mailto:sarah.schwieger@umu.se
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - sidebar:project
+      - collaborators.qmd
+      - about.qmd
+    tools:
+      - text: "bonjour"
+        menu:
+          - text: sarah.schwieger@umu.se
+            href: mailto:sarah.schwieger@umu.se
+          - text: (+46) 090-786 76 44
+            href: tel:+460907867644
+      - icon: linkedin
+        href: https://linkedin.com/in/sarah-schwieger1990
+      - icon: mortarboard
+        href: https://www.umu.se/personal/sarah-schwieger/
+      - icon: twitter
+        href: https://bsky.app/profile/sarahschwieger.bsky.social
+
+  # announcement:
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Alert** - I have a position open in my group [as field assistant](https://www.umu.se/en/staff/jan-dietrich/)"
+  #   type: primary
+  #   position: below-navbar
+
+  sidebar:
+    - id: project
+      title: "Projects"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - project-1.qmd
+        - project-2.qmd
+        - project-3.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
