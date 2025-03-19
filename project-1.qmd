@@ -6,6 +6,6 @@ This project focuses on the effect of warming on root compared to leaf decomposi
 
 > Warming will cause a larger relative increase in root litter decomposition than in leaf litter decomposition. While shrub root litter will decompose at a slower rate than graminoid root litter, its sensitivity to warming will be higher.
 
-![](SarahSchwieger/website/images/project1.png){fig-align="center" width="1153"}
+![](images/project1.png){fig-align="center" width="1153"}
 
 We will use a coordinated distributed experiment (CDE) across the Arctic to study how warming affects shrub root and leaf decomposition. Open-top chambers (OTCs) will artificially increase temperature at multiple tundra sites within the [International Tundra Experiment (ITEX)](https://www.gvsu.edu/itex/) network. Standardized protocols for litter bag deployment and data collection will ensure consistent comparisons across sites.
